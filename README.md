@@ -1,7 +1,5 @@
-# data_science
-Data Science Projects
+# Data Science Projects
 
-# Projects
 ### 1. Project: employee departures and factor analysis.
  - [📄 View the project notebook](https://github.com/kinsze032/data_science/blob/main/employee%20departures%20and%20factor%20analysis/employee_attrition_and_factors.ipynb)
  - data: https://www.kaggle.com/datasets/thedevastator/employee-attrition-and-factors
