@@ -1,4 +1,3 @@
-# Data Science Projects
 This repository is a collection of projects where I explore and learn the world of **Data Science**. The projects involve working with various tools and techniques, including data analysis, visualization, and machine learning.
 
 ## 1. Project: employee departures and factor analysis.
