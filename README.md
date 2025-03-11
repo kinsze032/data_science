@@ -22,4 +22,7 @@ In this project, I use Tableau to create dashboards and interactive visualizatio
 ![](https://github.com/kinsze032/data_science/blob/main/deforestation%20and%20fire%20analysis/ksz_7.jpg)
 
 ## 3. Project - Machine Learning Models  
-This project will focus on building machine learning models to solve a specific problem (e.g. classification, regression) using scikit-learn and Jupyter Notebook.
+This project analyzes whether or not a customer will purchase from us.
+Stakeholder: an online store owner trying to minimize the risk of abandoned shopping carts.
+
+This project focuses on building machine learning models to solve a specific problem (logistic regression, random trees) using scikit-learn and Jupyter Notebook.
